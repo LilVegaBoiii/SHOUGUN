@@ -1,0 +1,25 @@
+INSTALLATION!!
+
+-- Drag and Drop the resource folder into your servers resources!
+
+-- If you're using 'Ox Inventory', place the code below into ox_inventory/data/weapons.lua
+--(NOTE: Remove the "--whatever is said" in the code below if you want)
+
+['WEAPON_SHOUGUN'] = { --Spawn Name - Don't change this
+	label = 'Shougun', -- Whatever you want the weapon to be called
+	weight = 10, -- The weapons weight
+	durability = 0, -- Change this if you want the weapon to have durability, leave it at 0 if not
+},
+
+-- Place the image provided into ox_inventory/web/images
+
+-- Ensure the resource in server.cfg and restart your server
+
+NOTE: This is an Add-on weapon, meaning it will not replace any vanilla weapons
+
+
+
+
+
+
+--Flie Creations
